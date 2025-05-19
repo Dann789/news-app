@@ -43,6 +43,7 @@ dependencies:
   retrofit: 
   flutter_hooks: 
   cached_network_image:
+  dio:
 
 dev_dependencies:
   flutter_test:
